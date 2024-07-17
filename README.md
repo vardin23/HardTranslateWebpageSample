@@ -1,2 +1,6 @@
 # HardTranslateWebpageSample
-A sample of how one can try to hard translate an offline webpage
+A sample of how one can try to hard translate a webpage
+
+This is a sample project which can serve as a base for a full fledged project.
+For larger or full fledged websites , one might need to setup parameters and run this script recursively through all html files.
+Also , keep mind of the tags included in the original script , you'll need to add/remove tags as per requirements.
